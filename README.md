@@ -1,4 +1,4 @@
 # oiê!
-Meu nome é Renara,e tenho 16 anos.
-O SUCESSO É UMA JORNADA CONSTRUIDA PASSO A PASSO,E CADA PASO CONTA 
+Meu nome é Renara,e tenho 16 aNOS.
+
 
