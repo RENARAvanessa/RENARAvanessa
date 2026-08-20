@@ -1,4 +1,7 @@
-# oiê!
-Meu nome é Renara,e tenho 16 aNOS.
+Oiê, Meu nome é Renara.
+HOBBIES
+.Andar a cavalo 
+.Cozinha
+.Ser organizada 
 
 
