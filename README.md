@@ -1,2 +1,2 @@
 # Oiê, meu nome é Renara. 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGtveWRwYXZiM2ozd3ppNjl5YWttdXRxdjZlcjl3N2ZpeHdpajU0eCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/MDJ9IbxxvDUQM/giphy.gif" width="367px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFjZDB2aXpmdXJkOWh5ZWFyenYydGQzcDYyMjR5eno4OWtteWJ2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9w7YtTycjeLzW8V6io/giphy.gif" width="367px">
